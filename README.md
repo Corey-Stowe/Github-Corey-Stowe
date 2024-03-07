@@ -1,5 +1,4 @@
-# About Me
-<h2> Github Stats </h2>
+# My github stats
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Corey-Stowe" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Corey-Stowe&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
